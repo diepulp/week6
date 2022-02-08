@@ -1,0 +1,15 @@
+{
+  "name": "vivanovg/328/week6",
+  "description": "week6",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "diepulp",
+      "email": "Ivanov.Vladimir@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
